@@ -1,0 +1,6 @@
+{
+  "name": "OCULIS — Optical Atelier & Eye Clinic",
+  "description": "Bespoke handcrafted eyewear collections, clinical optometrist examinations, and intuitive online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
